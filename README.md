@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a **Network System Administrator** and a **Cyb
 ## 🚀 About Me
 - 🌐 **Expertise**: Network administration, cybersecurity, and system hardening.
 - 🔐 **Focus Areas**: Ethical hacking, threat analysis, vulnerability management, and secure DevOps.
-- 📚 **Certifications**: (List any relevant certifications like CEH, CISSP, OSCP, etc.)
+- 📚 **Certifications**: (cisco-networking-academy.)
 - 🎓 **Lifelong Learner**: Always exploring new tools, technologies, and best practices in cybersecurity and system administration.
 
 ## 🛠️ Skills & Tools
 ### Networking & Administration:
-- **Protocols**: TCP/IP, DNS, DHCP, VPN, BGP.
+- **Protocols**: TCP/IP, DNS, DHCP, VPN, BGP ,OSI.
 - **Devices**: Firewalls, routers, switches.
 - **Operating Systems**: Linux (Ubuntu, CentOS), Windows Server.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **Network System Administrator** and a **Cyb
 - **Hardening**: IAM, MFA, least privilege.
 
 ### Programming & Automation:
-- **Languages**: Python, Bash, PowerShell.
+- **Languages**: Python, Bash, PowerShell, C/C++.
 - **Automation**: Secure CI/CD pipelines, GitHub Actions.
 
 ## 🌟 Featured Projects
