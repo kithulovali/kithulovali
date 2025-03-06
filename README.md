@@ -4,52 +4,80 @@
       <img src="goffart_.jpg" alt="Kithulovali" width="250" height="200" style="border-radius: 50%;">
     </td>
     <td>
-      # 🌟 Welcome to My Repository 👋  
-      ## 🔹 About Me  
-      Hello! I'm Kithulovali, a Network System Administrator with a passion for Networking, Cybersecurity, and Programming.  
+      <h1>🌟 Welcome to My Repository 👋</h1>
+      <h2>🔹 About Me</h2>
+      <p>Hello! I'm <b>Kithulovali</b>, a <b>Network System Administrator</b> with a passion for <b>Networking, Cybersecurity, and Programming</b>.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 My Expertise  
-
-### 🛡️ Networking & Cybersecurity  
-✅ **Network Infrastructure:** Setup, configuration, and management  
-✅ **Traffic Characterization & Management:** Optimizing network efficiency  
-✅ **Network Performance Analysis & QoS:** Ensuring seamless performance  
-✅ **Cybersecurity:** Threat mitigation, system hardening, and secure configurations  
-
-### 🖥️ System Administration  
-🔹 **Server Management & Maintenance**  
-🔹 **Cloud Computing & Virtualization**  
-🔹 **Automation & Scripting for System Efficiency**  
-
-### 💻 Programming & Development  
-#### **Languages & Technologies**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-📌 **Web Development:** Backend APIs and Database Management  
-📌 **Scripting:** Network automation, security scripts, and system automation  
-📌 **Database Management:** Query optimization and data security  
+<table>
+  <tr>
+    <th colspan="2">🚀 My Expertise</th>
+  </tr>
+  <tr>
+    <td><h3>🛡️ Networking & Cybersecurity</h3></td>
+    <td>
+      ✅ <b>Network Infrastructure:</b> Setup, configuration, and management <br>
+      ✅ <b>Traffic Characterization & Management:</b> Optimizing network efficiency <br>
+      ✅ <b>Network Performance Analysis & QoS:</b> Ensuring seamless performance <br>
+      ✅ <b>Cybersecurity:</b> Threat mitigation, system hardening, and secure configurations
+    </td>
+  </tr>
+  <tr>
+    <td><h3>🖥️ System Administration</h3></td>
+    <td>
+      🔹 <b>Server Management & Maintenance</b> <br>
+      🔹 <b>Cloud Computing & Virtualization</b> <br>
+      🔹 <b>Automation & Scripting for System Efficiency</b>
+    </td>
+  </tr>
+  <tr>
+    <td><h3>💻 Programming & Development</h3></td>
+    <td>
+      📌 <b>Web Development:</b> Backend APIs and Database Management <br>
+      📌 <b>Scripting:</b> Network automation, security scripts, and system automation <br>
+      📌 <b>Database Management:</b> Query optimization and data security
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📍 Location  
-🌍 Based in **Uganda, Africa**  
+<table>
+  <tr>
+    <th colspan="2">💡 Languages & Technologies</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-## 🎯 Goals  
-🎯 Enhancing my **networking & programming expertise**  
-🎯 Solving **real-world problems** through technology  
-🎯 Committed to **continuous learning & innovation**  
+---
+
+<table>
+  <tr>
+    <th>📍 Location</th>
+    <th>🎯 Goals</th>
+  </tr>
+  <tr>
+    <td>🌍 Based in <b>Uganda, Africa</b></td>
+    <td>
+      🎯 Enhancing my <b>networking & programming expertise</b> <br>
+      🎯 Solving <b>real-world problems</b> through technology <br>
+      🎯 Committed to <b>continuous learning & innovation</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
