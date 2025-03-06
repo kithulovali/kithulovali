@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="goff.jpg" alt="kithulovali" width="100%">
+  <img src="goff.jpg" alt="kithulovali" width="50%" height="50%">
 </p>
 
 # 🌟 Welcome to My Repository 👋  
