@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="goff.jpg" alt="kithulovali" width="50%" height="50%">
+<p align="left">
+  <img src="goff.jpg" alt="Kithulovali" width="120" height="120" style="border-radius: 50%;">
 </p>
+
 
 # 🌟 Welcome to My Repository 👋  
 
