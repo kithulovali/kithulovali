@@ -1,13 +1,15 @@
-
-<p align="left">
-  <img src="goffart_.jpg" alt="Kithulovali" width="120" height="120" style="border-radius: 50%;">
-</p>
-
-
-# 🌟 Welcome to My Repository 👋  
-
-## 🔹 About Me  
-Hello! I'm **Kithulovali**, a **Network System Administrator** with a passion for **Networking, Cybersecurity, and Programming**.  
+<table>
+  <tr>
+    <td>
+      <img src="goffart_.jpg" alt="Kithulovali" width="120" height="120" style="border-radius: 50%;">
+    </td>
+    <td>
+      # 🌟 Welcome to My Repository 👋  
+      ## 🔹 About Me  
+      Hello! I'm **Kithulovali**, a **Network System Administrator** with a passion for **Networking, Cybersecurity, and Programming**.  
+    </td>
+  </tr>
+</table>
 
 ---
 
