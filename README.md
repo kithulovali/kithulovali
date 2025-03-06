@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="https://github.com/kithulovali/kithulovali/assets/goff.jpg" alt="kithulovali" width="100%">
+<p align="left">
+  <img src="goff.jpg" alt="Kithulovali" width="120" height="120" style="border-radius: 50%;">
 </p>
+
 
 # 🌟 Welcome to My Repository 👋  
 
