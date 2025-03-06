@@ -1,6 +1,6 @@
-<!-- Banner Image (Optional) -->
+
 <p align="center">
-  <img src="https://github.com/kithulovali/kithulovali/assets/" alt="Banner" width="100%">
+  <img src="https://github.com/kithulovali/kithulovali/assets/goff.jpg" alt="kithulovali" width="100%">
 </p>
 
 # 🌟 Welcome to My Repository 👋  
