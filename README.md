@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="goffart .psd" alt="Kithulovali" width="120" height="120" style="border-radius: 50%;">
+  <img src="goffart_.jpg" alt="Kithulovali" width="120" height="120" style="border-radius: 50%;">
 </p>
 
 
