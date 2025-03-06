@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="goffart_.jpg" alt="Kithulovali" width="250" height="120" style="border-radius: 50%;">
+      <img src="goffart_.jpg" alt="Kithulovali" width="250" height="200" style="border-radius: 50%;">
     </td>
     <td>
       # 🌟 Welcome to My Repository 👋  
