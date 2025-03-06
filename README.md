@@ -26,16 +26,16 @@ Hello! I'm **Kithulovali**, a **Network System Administrator** with a passion fo
 ### 💻 Programming & Development  
 #### **Languages & Technologies**  
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 📌 **Web Development:** Backend APIs and Database Management  
-📌 **Scripting:** Network automation and security scripts  
+📌 **Scripting:** Network automation, security scripts, and system automation  
 📌 **Database Management:** Query optimization and data security  
 
 ---
