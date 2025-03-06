@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/kithulovali/kithulovali/assets/goff.jpg" alt="kithulovali" width="100%">
+  <img src="goff.jpg" alt="kithulovali" width="100%">
 </p>
 
 # 🌟 Welcome to My Repository 👋  
