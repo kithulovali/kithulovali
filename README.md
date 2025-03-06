@@ -6,7 +6,7 @@
     <td>
       # 🌟 Welcome to My Repository 👋  
       ## 🔹 About Me  
-      Hello! I'm **Kithulovali**, a **Network System Administrator** with a passion for **Networking, Cybersecurity, and Programming**.  
+      Hello! I'm Kithulovali, a Network System Administrator with a passion for Networking, Cybersecurity, and Programming.  
     </td>
   </tr>
 </table>
