@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="goffart_.jpg" alt="Jean Marc Goffart" width="180" style="border-radius: 50%;"><br><br>
-  <h1>🌟 Welcome to My Repository 👋</h1>
+  <h1>🌟 Welcome 👋</h1>
   <h3>🚀 Network Automation & Cybersecurity | Web & Mobile Developer</h3>
 </div>
 
