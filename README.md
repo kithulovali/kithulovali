@@ -41,10 +41,6 @@
 
 ---
 
-## ⭐ Support My Work  
-<p align="center">
-  If my projects inspire you, please consider giving them a ⭐ — it helps others discover my work!  
-  <br><br>
   <a href="https://github.com/kithulovali?tab=repositories">
     <img src="https://img.shields.io/badge/-Star%20My%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
