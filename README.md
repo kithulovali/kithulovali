@@ -1,6 +1,6 @@
 <!-- Banner / Hero -->
 <h1 align="center">🌍 welcome, I'm <span style="color:#0077B5;">Goffart Jean Marc kithulovali</span> 👋</h1>
-<h1 >🌐 diving deeper into  **Networks, Cloud, and Backend Engineering </h1>
+<h1 >🌐 diving deeper into Networks, Cloud, and Backend Engineering </h1>
 ---
 
 ## 🛠️ Tech  
