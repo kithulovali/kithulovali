@@ -1,65 +1,64 @@
 <div align="center">
-  <h1>🌟 Welcome 👋</h1>
-  <h3>🚀 Network Automation & Cybersecurity | Web & Mobile Developer</h3>
+  <h1>Jean Marc Goffart</h1>
+  <h3>Network Automation & Cybersecurity | Full-Stack Developer</h3>
 </div>
 
 ---
 
-## 🔹 About Me
+## About Me
 
-Hello! I'm **Jean Marc Goffart**, a passionate **Network Automation & Cybersecurity Enthusiast** with solid experience in **Networking**, **Web & Mobile Development**, and **Security-Focused Solutions**.
-
----
-
-## 🚀 My Expertise
-
-### 🛡️ Networking Automation & Cybersecurity
-- ✅ **Network Device Automation** – Automating router/switch configurations using Python  
-- ✅ **Traffic Management** – Monitoring and optimizing traffic for performance and security  
-- ✅ **Network Security** – Threat detection, system hardening, and log analysis  
-- ✅ **Secure Communication** – Designing secure networks for safe data transmission  
-
-### 🌐 Web & Mobile Development
-- 🔹 **Frontend** – Responsive interfaces using HTML, CSS, and JavaScript  
-- 🔹 **Backend** – RESTful API development with Python (Django/Flask), MySQL  
-- 🔹 **Mobile Apps** – Cross-platform apps using **Flutter**  
-- 🔹 **System Integration** – Merging UI with automation and security backends  
-
-### 💻 System & Platform Scripting
-- 📌 **Automation Scripts** – For backups, device control, and system tasks  
-- 📌 **Security Tools** – Custom utilities for testing and securing networks  
-- 📌 **Database Handling** – Secure queries, data integrity, and logging  
+I'm a passionate **Network Automation & Cybersecurity** professional with a solid background in **Networking**, **Web & Mobile Development**, and **Security-Focused Solutions**. My goal is to build robust, secure, and automated systems that solve real-world problems. Based in **Uganda, Africa**, I am dedicated to mastering my craft and becoming a recognized full-stack, network-aware developer.
 
 ---
 
-## 💡 Languages & Technologies
+## Expertise
+
+### Network & Cybersecurity
+I specialize in securing and automating network infrastructures to ensure optimal performance and security.
+
+* **Network Automation:** Automating router and switch configurations using Python to streamline operations.
+* **Security & Threat Management:** Implementing system hardening, threat detection, and log analysis to protect networks from vulnerabilities.
+* **Secure Communication:** Designing and building secure network architectures for safe and reliable data transmission.
+
+### Web & Mobile Development
+I develop comprehensive and secure web and mobile applications from end to end.
+
+* **Frontend:** Creating responsive and intuitive user interfaces with **HTML**, **CSS**, and **JavaScript**.
+* **Backend:** Building secure and scalable **RESTful APIs** using **Python** frameworks like **Django** and **Flask**, with **MySQL** for robust data management.
+* **Mobile Apps:** Developing cross-platform mobile applications using **Flutter**.
+* **System Integration:** Seamlessly connecting frontend interfaces with backend automation and security systems.
+
+---
+
+## Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Kali-557C94?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge">
 </div>
 
 ---
 
-## 📍 Location & Goals
+## Projects
 
-- 🌍 Based in **Uganda, Africa**  
-- 🎯 Mastering **networking automation and cybersecurity**  
-- 🎯 Building **real-world web & mobile solutions** with security in mind  
-- 🎯 Becoming a **recognized full-stack, network-aware developer**  
+* **Network Automation Scripts:** Python scripts for automating network device configurations, backups, and routine system tasks.
+* **Custom Security Tools:** Developing custom utilities to test and secure networks, including tools for data integrity and secure querying.
+* **Mobile & Web Solutions:** Building full-stack web and cross-platform mobile applications with a focus on security and performance.
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
-💬 **Have a project idea or want to collaborate? Let’s talk!**  
+I am always open to new opportunities and collaborations. Feel free to reach out to discuss a project or just to connect.
 
 <div align="center">
-  <a href="https://github.com/kithulovali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:kithulovali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/jean-marc-goffart-6240b132a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kithulovali" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="mailto:kithulovali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="https://linkedin.com/in/jean-marc-goffart-6240b132a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
