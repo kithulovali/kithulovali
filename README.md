@@ -7,7 +7,10 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure,cisco" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -22,14 +25,20 @@
 ---
 
 ## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kithulovali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kithulovali&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithulovali&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kithulovali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=kithulovali&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=ff6e96" height="180" />
+
+  <!-- Languages -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithulovali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160" />
+
+</div>
 
 ---
 
