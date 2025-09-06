@@ -7,10 +7,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure" />
-  <br/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure,cisco,docker" height="60" />
 </p>
 
 ---
@@ -25,7 +22,6 @@
 ---
 
 ## 📊 GitHub Analytics  
-
 <div align="center">
 
   <!-- GitHub Stats -->
@@ -39,6 +35,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithulovali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160" />
 
 </div>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/kithulovali/kithulovali/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
