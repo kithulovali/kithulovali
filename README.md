@@ -32,10 +32,10 @@
 ## 📂 Featured Projects  
 <p align="center">
   <a href="https://github.com/your-username/project-1-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kithulovali&repo=project-1-repo&theme=radical" />
   </a>
   <a href="https://github.com/your-username/project-2-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kithulovali&repo=project-2-repo&theme=radical" />
   </a>
 </p>
 
@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kithulovali&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kithulovali&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
