@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="images\connexa.png" alt="Custom GitHub Banner">
+<div align="center" >
+  <img src="images\connexa.png" style="height= 60px">
 </div>
 
 ---
