@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="images\connexa.png" style="height:600px; ">
+  <img src="images\connexa.png" style="height:400px; ">
 </div>
 
 ---
