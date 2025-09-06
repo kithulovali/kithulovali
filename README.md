@@ -26,31 +26,13 @@
   <a href="https://linkedin.com/in/jean-marc-goffart-6240b132a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
----
-
-## 📂 Featured Projects  
-<p align="center">
-  <a href="https://github.com/your-username/project-1-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kithulovali&repo=project-1-repo&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/project-2-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kithulovali&repo=project-2-repo&theme=radical" />
-  </a>
-</p>
-
----
+--
 
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kithulovali&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kithulovali&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ---
 
 ## ⭐ Support My Work  
