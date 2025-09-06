@@ -1,13 +1,9 @@
 <!-- Banner / Hero -->
 <h1 align="center">🌍 Hey there, I'm <span style="color:#0077B5;">Goffart Jean Marc kithulovali</span> 👋</h1>
-
----
-
-## 🚀 About Me  
 - 🌐 diving deeper into  **Networks, Cloud, and Backend Engineering** 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure,cisco" />
 </p>
@@ -28,10 +24,4 @@
 ---
 
 ## ⭐ Support My Work  
-<p align="center">
-  If you like what I do, give my repos a ⭐ to support me!  
-  <br><br>
-  <a href="https://github.com/your-username?tab=repositories">
-    <img src="https://img.shields.io/badge/-Star%20My%20Projects-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
