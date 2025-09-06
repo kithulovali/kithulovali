@@ -38,13 +38,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/kithulovali/kithulovali/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## ⭐ Support My Work  
 <p align="center">
   If my projects inspire you, please consider giving them a ⭐ — it helps others discover my work!  
