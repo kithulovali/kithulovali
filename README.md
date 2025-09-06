@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-custom-banner-image-here.png" alt="Custom GitHub Banner">
+  <img src="images\connexa.png" alt="Custom GitHub Banner">
 </div>
 
 ---
@@ -65,15 +65,4 @@
 
 ---
 
-<h2 align="center">🤝 Support Me</h2>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee Badge">
-  </a>
-</div>
 
----
-
-<div align="center">
-  <img src="https://i.imgur.com/your-custom-footer-image.png" alt="Custom Footer Image">
-</div>
