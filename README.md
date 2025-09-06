@@ -1,14 +1,17 @@
 <!-- Banner / Hero -->
-<h1 align="center">🌍 Welcome <span style="color:#0077B5;"> Kithulovali</span> 👋</h1>
-<h3 align="center">⚡ Network & Cloud Engineer  🌐 Backend Developer 🤖 </h3>
+<h1 align="center">🌍 Welcome <span style="color:#0077B5;">Kithulovali</span> 👋</h1>
+<h3 align="center">⚡ Network & Cloud Engineer | 🌐 Backend Developer | 🤖 Automation Enthusiast </h3>
 
 ---
+
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure,cisco,docker" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,mysql,mongodb,linux,azure,docker" height="60" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="42" />
 </p>
+
 ---
----
+
 ## 📊 GitHub Analytics  
 
 <table align="center">
@@ -29,7 +32,8 @@
 
 ---
 
+<p align="center">
   <a href="https://github.com/kithulovali?tab=repositories">
-    <img src="https://img.shields.io/badge/-Star%20My%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-⭐%20Star%20My%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
