@@ -22,19 +22,22 @@
 ---
 
 ## 📊 GitHub Analytics  
-<div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kithulovali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=kithulovali&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=ff6e96" height="180" />
-
-  <!-- Languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithulovali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160" />
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kithulovali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=kithulovali&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithulovali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
