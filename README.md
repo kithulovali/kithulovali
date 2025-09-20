@@ -1,7 +1,3 @@
-<!-- Banner / Hero -->
-<h1 align="center">🌍 Welcome <span style="color:#0077B5;">Kithulovali</span> 👋</h1>
-<h3 align="center">⚡ Network & Cloud Engineer | 🌐 Backend Developer | 🤖 Automation Enthusiast </h3>
-
 ---
 
 ## 🛠️ Tech Stack  
