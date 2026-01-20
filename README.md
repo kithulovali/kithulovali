@@ -7,7 +7,9 @@
    <img src="https://skillicons.dev/icons?i=fastapi" height="60" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg" height="60" alt="Cisco Logo"/>
 </p>
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kithulovali&color=blueviolet&style=flat-square)
 
 
 
