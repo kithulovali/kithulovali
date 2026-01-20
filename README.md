@@ -9,7 +9,7 @@
 </p>
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kithulovali&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=kithulovali&color=green)
 
 
 
