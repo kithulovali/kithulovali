@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=%20kithulovali&fontSize=30&fontAlignY=35" />
+
 ---
 ## 🛠️ Tech Stack  
 <p align="center">
