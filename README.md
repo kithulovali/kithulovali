@@ -3,16 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Kithulovali&fontSize=36&fontColor=ffffff&fontAlignY=38" width="100%" alt="Kithulovali header" />
 
 <a href="https://www.goffart.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20goffart.dev-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit goffart.dev" />
+  <img src="https://img.shields.io/badge/-Explore%20goffart.dev-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit goffart.dev" />
 </a>
-
-<br/><br/>
-
-<sub>NETWORKS · SYSTEMS · SOFTWARE · DATA · AI</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kithulovali&style=flat-square&color=0f766e&label=PROFILE+VIEWS" alt="GitHub profile views" />
 
 </div>
 
