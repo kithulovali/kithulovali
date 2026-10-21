@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=130&section=header&text=kithulovali&fontSize=34&fontColor=ffffff&fontAlignY=40" width="100%" />
 
-**NETWORK · SYSTEMS · SOFTWARE · DATA · AI**
-
-[goffart.dev](https://www.goffart.dev/) · [GitHub](https://github.com/kithulovali)
+**NETWORK · SYSTEMS · SOFTWARE · DATA · AI*
 
 </div>
 
