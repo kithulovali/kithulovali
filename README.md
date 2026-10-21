@@ -1,46 +1,47 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=130&section=header&text=kithulovali&fontSize=34&fontColor=ffffff&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Kithulovali&fontSize=36&fontColor=ffffff&fontAlignY=38" width="100%" alt="Kithulovali header" />
 
-**NETWORK · SYSTEMS · SOFTWARE · DATA · AI*
+<a href="https://www.goffart.dev/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20goffart.dev-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit goffart.dev" />
+</a>
+
+<br/><br/>
+
+<sub>NETWORKS · SYSTEMS · SOFTWARE · DATA · AI</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kithulovali&style=flat-square&color=0f766e&label=PROFILE+VIEWS" alt="GitHub profile views" />
 
 </div>
 
-### `STACK`
-
-**Languages & Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,go,rust,zig,fastapi,django" alt="Python, C, Go, Rust, Zig, FastAPI and Django" />
-</p>
-
-**Networking & Systems**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,docker,kubernetes" alt="Linux, Red Hat, Bash, Docker and Kubernetes" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/podman/892CA0" height="48" alt="Podman" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/049FD9" height="48" alt="Cisco" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" />
-</p>
-
-
-**Databases, Data & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,aws,azure,gcp,git,github" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite, AWS, Azure, Google Cloud, Git and GitHub" />
-</p>
-
-`NumPy` · `pandas` · `EDA` · `Kaggle` · `Machine Learning`
+---
 
 <div align="center">
 
-**[GOFFART.DEV ↗](https://www.goffart.dev/)**
+<sub><b>STACK</b></sub>
 
-<sub>NETWORKS / SYSTEMS / SOFTWARE / DATA / AI</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,go,rust,c,zig" alt="Python, FastAPI, Django, Go, Rust, C and Zig" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,docker,kubernetes,git,github" alt="Linux, Red Hat, Bash, Docker, Kubernetes, Git and GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,aws,gcp" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite, AWS and Google Cloud" />
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6&section=footer" width="100%" />
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f766e&height=4&section=footer" width="100%" alt="" />
+
+<sub>NETWORKS · SYSTEMS · SOFTWARE · DATA · AI</sub>
+
+</div>
